@@ -18,14 +18,14 @@ const MESSAGE = process.env.MESSAGE ||  `
 *💪 Empowering Your Experience with Silva MD Bot*
 
 *🌟 Show your support by giving our repo a star! 🌟*
-🔗 https://github.com/SilvaTechB/silva-md-bot
+🔗 https://github.com/trouble254/shadow-XMD
 
 *💭 Need help? Join our support groups:*
 📢 💬
-https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v
+https://whatsapp.com/channel/0029VbBM1Kw8kyyFKORNQv1q
 
 *📚 Learn & Explore More with Tutorials:*
-🪄 YouTube Channel https://www.youtube.com/@silvaedits254
+🪄 YouTube Channel https://www.youtube.com/@trouble254
 
 *🥀 Powered by Silva MD Bot & Silva Tech Inc 🥀*
 *Together, we build the future of automation! 🚀*
